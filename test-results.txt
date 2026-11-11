@@ -1,0 +1,17 @@
+test_01_total (__main__.MarketplaceTests.test_01_total) ... ok
+test_02_stock (__main__.MarketplaceTests.test_02_stock) ... ok
+test_03_no_stock (__main__.MarketplaceTests.test_03_no_stock) ... ok
+test_04_rollback (__main__.MarketplaceTests.test_04_rollback) ... ok
+test_05_repeat (__main__.MarketplaceTests.test_05_repeat) ... ok
+test_06_negative (__main__.MarketplaceTests.test_06_negative) ... ok
+test_07_role (__main__.MarketplaceTests.test_07_role) ... ok
+test_08_cancel (__main__.MarketplaceTests.test_08_cancel) ... ok
+test_09_repeat_cancel (__main__.MarketplaceTests.test_09_repeat_cancel) ... ok
+test_10_foreign_cancel (__main__.MarketplaceTests.test_10_foreign_cancel) ... ok
+test_11_price_snapshot (__main__.MarketplaceTests.test_11_price_snapshot) ... ok
+test_12_empty (__main__.MarketplaceTests.test_12_empty) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.011s
+
+OK
